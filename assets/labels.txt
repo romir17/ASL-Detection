@@ -1,0 +1,29 @@
+1 Letter A
+2 Letter B
+3 Letter C
+4 Letter D
+5 Letter E
+6 Letter F
+7 Letter G
+8 Letter H
+9 Letter I
+10 Letter J
+11 Letter K
+12 Letter L
+13 Letter M
+14 Letter N
+15 Letter O
+16 Letter P
+17 Letter Q
+18 Letter R
+19 Letter S
+20 Letter T
+21 Letter U
+22 Letter V
+23 Letter W
+24 Letter X
+25 Letter Y
+26 Letter Z
+27 Space
+28 Del
+29 Nothing
